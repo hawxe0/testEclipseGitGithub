@@ -1,4 +1,4 @@
-package p1;
+package EISI.EclipseGitGithub;
 
 public class Calculs {
 	private final int operande1;
